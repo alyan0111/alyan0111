@@ -10,7 +10,7 @@
 
 - **Frontend:** React.js, Redux, HTML5, CSS3, Bootstrap, Tailwind
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB,Firebase
 - **Tools:** Git, GitHub, VS Code
 
 🌐 Feel free to check out my repositories, where I've showcased my passion for clean code, modular architecture, and a knack for problem-solving. I'm always open to collaborations and learning opportunities.
